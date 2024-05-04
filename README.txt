@@ -2,6 +2,9 @@ ABOUT
 TRVL: A travel planner app for creating and editing trips, exploring
 destinations and recommendations, and getting travel updates.
 
+DEMO
+https://youtu.be/ziQNSykEv3U
+
 PROJECT STRUCTURE
 The user is met with a Login/Create Account screen. This is 
 part of the AuthStack. After valid authorization, the app
@@ -77,8 +80,9 @@ Use the "Home/Map" tab to search for locations and explore their details.
 Discover destination recommendations in the "Destination Recommendations" tab. 
 Click on a destination to view more information in the "Destination Info" screen.
 4. Real-time Travel Updates:
-Get real-time weather updates by entering a zip code or city name in the "Real-time Travel Updates" tab. 
-Choose to view current weather conditions or a forecast for the next few hours.
+Get real-time weather updates by entering a zip code or city name in the 
+"Real-time Travel Updates" tab. Choose to view current weather conditions 
+or a forecast for the next few hours.
 5. Account Management:
 Access your account information and log out from the "Account" tab.
 
