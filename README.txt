@@ -115,10 +115,10 @@ to go and search the location after reading about the recommendation.
 This feature would fetch the most accurate location data 
 through the Google API, similar to how Home/Map locations 
 are fetched.
-5. Account: Providing a forgot password option. Once logged in,
-having profile information beyond the "Welcome, [full name]".
-Ideas include: profile picture, reset password/email/name,
-TRVL member since, and other stats.
+5. Account: Password visibility toggle. Forgot password option. 
+Once logged in, having profile information beyond the 
+"Welcome, [full name]". Ideas include: profile picture,
+reset password/email/name, TRVL member since, and other stats.
 
 This project was made by Collins Otieno, Mariya Popova, and John Warren.
 March 2024 - May 2024.
